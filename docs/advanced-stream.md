@@ -142,19 +142,19 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: Collecting things on Mars
-* description: Join Daryl, Richard, and Shannon as they make a game about a rover picking up things on mars. In this video, we show how to create a player inventory in a game about collecting resources.
-* youTubeId: BoqKYryOm8w
-* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/BoqKYryOm8w.jpg
-
----
-
 * name: Adding Enemies to our Pyramid Traffic Game
 * description: Join Richard, Shannon, and Vivian as we add more levels and enemies to our Temple of Zoom game! We have classic enemies of Mo the Cat: mummy cats (who follow you around), QUEEN mummy cats, (who follow you around smartly), and euphoribas (who are just doing their thing, but don't step on their spikes)!
 * youTubeId: 1qHvGCks4vo
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
 * imageUrl: /static/advanced-stream/1qHvGCks4vo.jpg
+
+---
+
+* name: Collecting things on Mars
+* description: Join Daryl, Richard, and Shannon as they make a game about a rover picking up things on mars. In this video, we show how to create a player inventory in a game about collecting resources.
+* youTubeId: BoqKYryOm8w
+* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
+* imageUrl: /static/advanced-stream/BoqKYryOm8w.jpg
 
 ---
 
@@ -174,14 +174,6 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: Projectile Explosions
-* description: Join Richard, Daryl, Joey, Vivian, and Shannon as they make a platformer game where you launch exploding projectiles!
-* youTubeId: ZYKZ1AfgqbU
-* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/ZYKZ1AfgqbU.jpg
-
----
-
 * name: Character dialog
 * description: Join Richard, Vivian, and Joey as they make a game that shows off how to do character dialog, rpg style! The sound is messed up for the first minute or two, but it gets fixed so keep watching.
 * youTubeId: yTqoq0ewOyQ
@@ -190,19 +182,11 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: Mood lighting
-* description: Join Richard, Shannon, Daryl, and Joey as they continue working on their survival game. Today we added a lose-condition, a win-condition, and some lighting effects! Check out the code here: https://makecode.com/_MEpWVyTgwDjz
-* youTubeId: w7Y6Do9HPU4
+* name: Projectile Explosions
+* description: Join Richard, Daryl, Joey, Vivian, and Shannon as they make a platformer game where you launch exploding projectiles!
+* youTubeId: ZYKZ1AfgqbU
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/w7Y6Do9HPU4.jpg
-
----
-
-* name: Game idea generator
-* description: Join Daryl, Joey, Shannon, and Richard as they create a game idea generator in MakeCode Arcade! We also create a custom extension on the fly and forget to name the game because we ran out of time.
-* youTubeId: 48uOkTLnpDk
-* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/48uOkTLnpDk.jpg
+* imageUrl: /static/advanced-stream/ZYKZ1AfgqbU.jpg
 
 ---
 
@@ -219,6 +203,22 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 * youTubeId: TInyY24uRBU
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
 * imageUrl: /static/advanced-stream/TInyY24uRBU.jpg
+
+---
+
+* name: Game idea generator
+* description: Join Daryl, Joey, Shannon, and Richard as they create a game idea generator in MakeCode Arcade! We also create a custom extension on the fly and forget to name the game because we ran out of time.
+* youTubeId: 48uOkTLnpDk
+* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
+* imageUrl: /static/advanced-stream/48uOkTLnpDk.jpg
+
+---
+
+* name: Mood lighting
+* description: Join Richard, Shannon, Daryl, and Joey as they continue working on their survival game. Today we added a lose-condition, a win-condition, and some lighting effects! Check out the code here: https://makecode.com/_MEpWVyTgwDjz
+* youTubeId: w7Y6Do9HPU4
+* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
+* imageUrl: /static/advanced-stream/w7Y6Do9HPU4.jpg
 
 ---
 
@@ -286,14 +286,6 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: Turn off the Dark
-* description: Join Richard, Daryl, Shannon, not Joey, and Vivian as we make a game about walking across your room at night! When it's dark, you see monsters coming for you, but if you use your flashlight (press A!) you'll see that it was just your imagination running wild, and all the monsters were actually just regular things. Try to get to the other side of the room to turn on the light switch, and make sure you don't touch any of the monsters!
-* youTubeId: tKgAVGWZTNQ
-* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/tKgAVGWZTNQ.jpg
-
----
-
 * name: Attaching Sprites
 * description: Join Richard, Joey, Shannon, Vivian, and Daryl as they make a game where you can destroy enemy ships and add them to your ship. We also establish a gold star system that will almost certainly be forgotten about next week.
 * youTubeId: uoj8ejNZ3Zs
@@ -310,19 +302,27 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: Elevator Game
-* description: Join Richard, Joey, and Shannon as we making a quiz game! Check back next week for the "quiz" component! In this stream, we code an elevator-like mechanism for switching between floors of an office building, and we populate those floors with random items.
-* youTubeId: 0677RVhuvxU
-* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/0677RVhuvxU.jpg
-
----
-
 * name: Fighting the ARMadillo
 * description: Join Richard, Shannon, Joey, and Vivian as we make a game about fighting a big boss! This boss has two kinds of attacks, and two phases. We also discuss simple machines and upper body strength
 * youTubeId: ef_hnXMWBDE
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
 * imageUrl: /static/advanced-stream/ef_hnXMWBDE.jpg
+
+---
+
+* name: Turn off the Dark
+* description: Join Richard, Daryl, Shannon, not Joey, and Vivian as we make a game about walking across your room at night! When it's dark, you see monsters coming for you, but if you use your flashlight (press A!) you'll see that it was just your imagination running wild, and all the monsters were actually just regular things. Try to get to the other side of the room to turn on the light switch, and make sure you don't touch any of the monsters!
+* youTubeId: tKgAVGWZTNQ
+* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
+* imageUrl: /static/advanced-stream/tKgAVGWZTNQ.jpg
+
+---
+
+* name: Elevator Game
+* description: Join Richard, Joey, and Shannon as we making a quiz game! Check back next week for the "quiz" component! In this stream, we code an elevator-like mechanism for switching between floors of an office building, and we populate those floors with random items.
+* youTubeId: 0677RVhuvxU
+* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
+* imageUrl: /static/advanced-stream/0677RVhuvxU.jpg
 
 ---
 
@@ -366,11 +366,11 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: Skateboarding Stunts
-* description: Join Richard, Joey, and Vivian as we make a game about skateboarding! Press A to flip
-* youTubeId: BDng6c-Jkmc
+* name: Custom Sprite Effects
+* description: Join Shannon, Joey, and Vivian as we make a bunch of custom sprite effects! We make a teleportation animation, a leaf kicking fall vibe, a freeze/iced tile, and angry/surprised emotes!
+* youTubeId: mP4H3F128iw
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/BDng6c-Jkmc.jpg
+* imageUrl: /static/advanced-stream/mP4H3F128iw.jpg
 
 ---
 
@@ -382,14 +382,6 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: Color Changing World
-* description: Join Richard, Joey, and Vivian as we explore color! We're starting the basis of a game where the colors change when you walk through a door.
-* youTubeId: 0sDq7w1rGLc
-* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/0sDq7w1rGLc.jpg
-
----
-
 * name: haunted kitchen
 * description: Join Richard and Vivian as we don't make a game, but make a cool idea, where you have a bunch of kitchen items who want to get together and hang out but when you look at them they stop moving!
 * youTubeId: PwUKEns6ZMs
@@ -398,11 +390,19 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: Custom Sprite Effects
-* description: Join Shannon, Joey, and Vivian as we make a bunch of custom sprite effects! We make a teleportation animation, a leaf kicking fall vibe, a freeze/iced tile, and angry/surprised emotes!
-* youTubeId: mP4H3F128iw
+* name: Skateboarding Stunts
+* description: Join Richard, Joey, and Vivian as we make a game about skateboarding! Press A to flip
+* youTubeId: BDng6c-Jkmc
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/mP4H3F128iw.jpg
+* imageUrl: /static/advanced-stream/BDng6c-Jkmc.jpg
+
+---
+
+* name: Color Changing World
+* description: Join Richard, Joey, and Vivian as we explore color! We're starting the basis of a game where the colors change when you walk through a door.
+* youTubeId: 0sDq7w1rGLc
+* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
+* imageUrl: /static/advanced-stream/0sDq7w1rGLc.jpg
 
 ---
 
@@ -430,19 +430,19 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: History, but with more animals!
-* description: Join Richard, Vivian, Shannon, Daryl, and Joey as we make a game based on our game idea generator! The prompt this time was a "historical and monochrome game set in a library where things get broken". We ended up making a reinterpretation of the destruction of the library of Alexandria with an adorable mouse librarian.
-* youTubeId: usXXV1B0FCc
-* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/usXXV1B0FCc.jpg
-
----
-
 * name: One-button sneaking around!
 * description: Join Shannon, Daryl, Joey, and Richard as they use the "game idea generator" from the previous video to build an entirely new game. This one will use the elements of "colorful racing game in a school featuring one-button".
 * youTubeId: w3qZJADON-4
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
 * imageUrl: /static/advanced-stream/w3qZJADON-4.jpg
+
+---
+
+* name: History, but with more animals!
+* description: Join Richard, Vivian, Shannon, Daryl, and Joey as we make a game based on our game idea generator! The prompt this time was a "historical and monochrome game set in a library where things get broken". We ended up making a reinterpretation of the destruction of the library of Alexandria with an adorable mouse librarian.
+* youTubeId: usXXV1B0FCc
+* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
+* imageUrl: /static/advanced-stream/usXXV1B0FCc.jpg
 
 ---
 
@@ -462,6 +462,14 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
+* name: Ramping up the difficulty in Falling Bird
+* description: Join Daryl, Joey, Richard, and Shannon as they continue remixing Falling Duck in MakeCode Arcade . This stream, we made the game start out easier and get more difficult the longer you play.
+* youTubeId: d1yP5oa8zTU
+* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
+* imageUrl: /static/advanced-stream/d1yP5oa8zTU.jpg
+
+---
+
 * name: Spaceship Bugs
 * description: Today Daryl, Richard, and Shannon demonstrated the "tilemaps" extension (https://github.com/microsoft/pxt-tilemaps) which is in beta. They explored some of the basics of working with multiple tilemaps, however there were also a number of technical issues with the extension.
 * youTubeId: UBzgFLRHAS8
@@ -470,11 +478,11 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: Ramping up the difficulty in Falling Bird
-* description: Join Daryl, Joey, Richard, and Shannon as they continue remixing Falling Duck in MakeCode Arcade . This stream, we made the game start out easier and get more difficult the longer you play.
-* youTubeId: d1yP5oa8zTU
+* name: How to Make Minesweeper
+* description: Join Richard, Shannon, and Vivian as we remake and remix the classic game: Minesweeper! but gopher themed. In this stream, we use the small tilemaps extension to make the board, and a bunch of sprites to cover it up. We also power through some recursion to make a flood fill! And it works!
+* youTubeId: jn3Y90l2bLE
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/d1yP5oa8zTU.jpg
+* imageUrl: /static/advanced-stream/jn3Y90l2bLE.jpg
 
 ---
 
@@ -494,11 +502,11 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: How to Make Minesweeper
-* description: Join Richard, Shannon, and Vivian as we remake and remix the classic game: Minesweeper! but gopher themed. In this stream, we use the small tilemaps extension to make the board, and a bunch of sprites to cover it up. We also power through some recursion to make a flood fill! And it works!
-* youTubeId: jn3Y90l2bLE
+* name: Untitled Bunny Game Pt 3
+* description: Join Daryl, Vivian, and Joey as we finish (for now) our snow bunny stealth game! You are a rabbit and need to steal carrots while avoiding farmers. This game features a side-scrolling window, procedural generation, sneak mechanics, and basic state machine AI.
+* youTubeId: StZOoOP_Rss
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/jn3Y90l2bLE.jpg
+* imageUrl: /static/advanced-stream/StZOoOP_Rss.jpg
 
 ---
 
@@ -518,27 +526,11 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: Untitled Bunny Game Pt 3
-* description: Join Daryl, Vivian, and Joey as we finish (for now) our snow bunny stealth game! You are a rabbit and need to steal carrots while avoiding farmers. This game features a side-scrolling window, procedural generation, sneak mechanics, and basic state machine AI.
-* youTubeId: StZOoOP_Rss
-* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/StZOoOP_Rss.jpg
-
----
-
 * name: A Colorful Tundra Monkey
 * description: Join Joey, Daryl, Richard, and Shannon as we make game about throwing fruit at animals in the tundra!
 * youTubeId: Q054jOk51KQ
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
 * imageUrl: /static/advanced-stream/Q054jOk51KQ.jpg
-
----
-
-* name: 🍆🥕🌽🍅
-* description: Join Richard, Daryl, Joey, and Vivian as we make a four player game! (that's so many players 😭)
-* youTubeId: _TGelr4YgJo
-* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/_TGelr4YgJo.jpg
 
 ---
 
@@ -550,11 +542,11 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: Salt Mining!
-* description: Join Richard, Joey, and Vivian as we making a mining game! Use A to break up rocks and find the treasure that the talking shark is hounding you for! In this stream, we used the sprite data extension to attach how many hits a rock needs to break open plus the name of the object. We also used Richard's new object extension to add an image array for our four directions!
-* youTubeId: CeVuCygPoCo
+* name: 🍆🥕🌽🍅
+* description: Join Richard, Daryl, Joey, and Vivian as we make a four player game! (that's so many players 😭)
+* youTubeId: _TGelr4YgJo
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/CeVuCygPoCo.jpg
+* imageUrl: /static/advanced-stream/_TGelr4YgJo.jpg
 
 ---
 
@@ -566,14 +558,6 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: Farm Heist (Pt 1)
-* description: Steal from the rich and give to the poor! Join Vivian, Joey, Daryl, and Shannon as they start an interactive story about some animals stealing from the evil Prince John. We utilize the storytelling and character animation extensions to tell our story!
-* youTubeId: VT1v4z4I_uk
-* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/VT1v4z4I_uk.jpg
-
----
-
 * name: New story blocks!
 * description: Join Richard, Vivian, Shannon, and Joey as they build a game using the new blocks in the arcade-story extension! Check out this game where a friendly mouse helps folks out in their neighborhood.
 * youTubeId: GZ93Cmng14o
@@ -582,19 +566,19 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: Save the Ants!
-* description: Join Richard, Shannon, Joey, and Vivian as we make a game about ants crossing a bridge. Hold A to stop the ants from progressing, but hurry! There's an anteater on the top, and an antlion on the bottom. Help as many ants cross as you can.
-* youTubeId: EcE_GmnZ14k
+* name: Farm Heist (Pt 1)
+* description: Steal from the rich and give to the poor! Join Vivian, Joey, Daryl, and Shannon as they start an interactive story about some animals stealing from the evil Prince John. We utilize the storytelling and character animation extensions to tell our story!
+* youTubeId: VT1v4z4I_uk
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/EcE_GmnZ14k.jpg
+* imageUrl: /static/advanced-stream/VT1v4z4I_uk.jpg
 
 ---
 
-* name: Oh no, Hippo!
-* description: Join Richard, Joey, and Vivian as we make a game about the trials of being a hippo!
-* youTubeId: K1dzl0wS304
+* name: Salt Mining!
+* description: Join Richard, Joey, and Vivian as we making a mining game! Use A to break up rocks and find the treasure that the talking shark is hounding you for! In this stream, we used the sprite data extension to attach how many hits a rock needs to break open plus the name of the object. We also used Richard's new object extension to add an image array for our four directions!
+* youTubeId: CeVuCygPoCo
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/K1dzl0wS304.jpg
+* imageUrl: /static/advanced-stream/CeVuCygPoCo.jpg
 
 ---
 
@@ -606,19 +590,19 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: MakeCode Arcade Advanced
-* description: Join Richard, Shannon, Joey, and Vivian as we add some mini games to the farm heist game! Multitask between the alarm and the gold as you try to escape!
-* youTubeId: Ai96s4ybmMo
+* name: Oh no, Hippo!
+* description: Join Richard, Joey, and Vivian as we make a game about the trials of being a hippo!
+* youTubeId: K1dzl0wS304
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/Ai96s4ybmMo.jpg
+* imageUrl: /static/advanced-stream/K1dzl0wS304.jpg
 
 ---
 
-* name: Simple Machines
-* description: Join Richard, Shannon, Joey, and Vivian as they make a game about using simple machines to the bend the world to your will. You can do anything with simple machines. ANYTHING!
-* youTubeId: gtGYYG96VdE
+* name: Save the Ants!
+* description: Join Richard, Shannon, Joey, and Vivian as we make a game about ants crossing a bridge. Hold A to stop the ants from progressing, but hurry! There's an anteater on the top, and an antlion on the bottom. Help as many ants cross as you can.
+* youTubeId: EcE_GmnZ14k
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/gtGYYG96VdE.jpg
+* imageUrl: /static/advanced-stream/EcE_GmnZ14k.jpg
 
 ---
 
@@ -630,11 +614,27 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: Gravity Shifting
-* description: Why fall down when there are so many other directions? Join Richard, Vivian, Joey, and Shannon as they build a game where gravity has no meaning and everything is pumpkins. This game doesn't really have a goal, but hopefully it's a good basis for a much more interesting game!
-* youTubeId: mhGsXOxMq0Q
+* name: MakeCode Arcade Advanced
+* description: Join Richard, Shannon, Joey, and Vivian as we add some mini games to the farm heist game! Multitask between the alarm and the gold as you try to escape!
+* youTubeId: Ai96s4ybmMo
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/mhGsXOxMq0Q.jpg
+* imageUrl: /static/advanced-stream/Ai96s4ybmMo.jpg
+
+---
+
+* name: Sucromon (Part 2)
+* description: Join Daryl, Joey, Vivian, and Shannon as they continue the Sucromon monster collecting game! We'll be finishing this game over the course of this week so make sure you stay tuned!
+* youTubeId: Mb7nDODcY3Q
+* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
+* imageUrl: /static/advanced-stream/Mb7nDODcY3Q.jpg
+
+---
+
+* name: Simple Machines
+* description: Join Richard, Shannon, Joey, and Vivian as they make a game about using simple machines to the bend the world to your will. You can do anything with simple machines. ANYTHING!
+* youTubeId: gtGYYG96VdE
+* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
+* imageUrl: /static/advanced-stream/gtGYYG96VdE.jpg
 
 ---
 
@@ -646,11 +646,11 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: Sucromon (Part 2)
-* description: Join Daryl, Joey, Vivian, and Shannon as they continue the Sucromon monster collecting game! We'll be finishing this game over the course of this week so make sure you stay tuned!
-* youTubeId: Mb7nDODcY3Q
+* name: Gravity Shifting
+* description: Why fall down when there are so many other directions? Join Richard, Vivian, Joey, and Shannon as they build a game where gravity has no meaning and everything is pumpkins. This game doesn't really have a goal, but hopefully it's a good basis for a much more interesting game!
+* youTubeId: mhGsXOxMq0Q
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/Mb7nDODcY3Q.jpg
+* imageUrl: /static/advanced-stream/mhGsXOxMq0Q.jpg
 
 ---
 
@@ -667,6 +667,14 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 * youTubeId: q0xV56wXqzQ
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
 * imageUrl: /static/advanced-stream/q0xV56wXqzQ.jpg
+
+---
+
+* name: River Running
+* description: Join Richard, Shannon, Joey, and Vivian as we make a game about survival of the jumpiest! Use your left/right/down button to hop between logs and lilypads to avoid falling off the waterfall! Lilypads will sink if you stay on them too long though
+* youTubeId: JuCoH9CQwmY
+* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
+* imageUrl: /static/advanced-stream/JuCoH9CQwmY.jpg
 
 ---
 
@@ -694,6 +702,14 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
+* name: Ghost River (Part 1)
+* description: Join Richard, Vivian, Shannon, and Joey as they make a game about a steamboat going down a ghost river. We set up the boat controls (and a cool ripple effect), and place the ghosts along the river in this stream. We'll continue adding the story for the ghosts in a later one!
+* youTubeId: 8nx1tnK-aDQ
+* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
+* imageUrl: /static/advanced-stream/8nx1tnK-aDQ.jpg
+
+---
+
 * name: Creating Biomes in Falling Duck
 * description: Join Daryl, Joey, Richard, and Shannon as they continue remixing falling duck! This time, we added a new snow biome to the game complete with snowmen and deadly icicles.
 * youTubeId: LaMNgJ7TPl8
@@ -710,27 +726,19 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: Ghost River (Part 1)
-* description: Join Richard, Vivian, Shannon, and Joey as they make a game about a steamboat going down a ghost river. We set up the boat controls (and a cool ripple effect), and place the ghosts along the river in this stream. We'll continue adding the story for the ghosts in a later one!
-* youTubeId: 8nx1tnK-aDQ
-* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/8nx1tnK-aDQ.jpg
-
----
-
-* name: River Running
-* description: Join Richard, Shannon, Joey, and Vivian as we make a game about survival of the jumpiest! Use your left/right/down button to hop between logs and lilypads to avoid falling off the waterfall! Lilypads will sink if you stay on them too long though
-* youTubeId: JuCoH9CQwmY
-* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/JuCoH9CQwmY.jpg
-
----
-
 * name: Giraf-fight!
 * description: This stream was inspired by videos of Giraffes fighting, but no animals were harmed in the making of this game. Join Richard, Vivian, Daryl, Shannon, and Joey as they make a very important game.
 * youTubeId: 53L4lkAfsJQ
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
 * imageUrl: /static/advanced-stream/53L4lkAfsJQ.jpg
+
+---
+
+* name: Procedural Platformer Pt. 1
+* description: Join Richard, Vivian, Shannon, and Joey as they make a very vertical platformer with randomly generated platforms. It also has a very macabre plot about collecting bones for an adorable ghost. We didn't quite finish this one so we'll probably be picking it up again next week.
+* youTubeId: cnDhMYK3vEY
+* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
+* imageUrl: /static/advanced-stream/cnDhMYK3vEY.jpg
 
 ---
 
@@ -774,14 +782,6 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: Orbiting around the player
-* description: Join Richard, Shannon, and Daryl as they make a tornado game with orbital mechanics!
-* youTubeId: w5CNFOpgrBw
-* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/w5CNFOpgrBw.jpg
-
----
-
 * name: Help Desk #2 feat. arcade release, feature requests, how to make a boss
 * description: Join Richard, Shannon, Joey, and Vivian as we answer YOUR questions live! Timestamps for all the topics are below, so feel free to jump around. If you have something you want answered, submit them on the forum at aka.ms/arcade-help
 * youTubeId: SCwBz0cGnPc
@@ -798,11 +798,11 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: Procedural Platformer Pt. 1
-* description: Join Richard, Vivian, Shannon, and Joey as they make a very vertical platformer with randomly generated platforms. It also has a very macabre plot about collecting bones for an adorable ghost. We didn't quite finish this one so we'll probably be picking it up again next week.
-* youTubeId: cnDhMYK3vEY
+* name: Orbiting around the player
+* description: Join Richard, Shannon, and Daryl as they make a tornado game with orbital mechanics!
+* youTubeId: w5CNFOpgrBw
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/cnDhMYK3vEY.jpg
+* imageUrl: /static/advanced-stream/w5CNFOpgrBw.jpg
 
 ---
 
@@ -822,19 +822,11 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: Haunted Home Ownership
-* description: Join Richard, Daryl, Shannon, Joey, and Vivian as they make a game about lawn maintenance and ghosts. This stream gives some examples of how to make signs and NPCs in tilemap games, as well as custom dialogs!
-* youTubeId: uIhsNahi8Q8
+* name: There's a Wolf in my Boot!
+* description: Join Richard and Shannon as they play a game of mad-libs with sprites and coding! Tune in to find out what kind of game they make with "spooky", "autumn" and "ice laser" as the starting prompts.
+* youTubeId: py5d8xaOqPU
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/uIhsNahi8Q8.jpg
-
----
-
-* name: a game about herding geese
-* description: Join Richard, Daryl, Joey, and Vivian as we work on Vivian's Traffic Jam game! It's about herding all your baby goslings to see the goal by using traffic cones. We implemented a new level in this stream, as well as adding some features if you complete a level. The geese are using a flocking algorithm called Boids.
-* youTubeId: HMcraHt86Gw
-* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/HMcraHt86Gw.jpg
+* imageUrl: /static/advanced-stream/py5d8xaOqPU.jpg
 
 ---
 
@@ -846,11 +838,19 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: Ice Cream Tower
-* description: Join Richard, Joey, Vivian and Shannon as they make a game about stacking ice cream scoops. Also watch as a controversy threatens to tear the MakeCode team apart.
-* youTubeId: gOFKqdKbGWk
+* name: a game about herding geese
+* description: Join Richard, Daryl, Joey, and Vivian as we work on Vivian's Traffic Jam game! It's about herding all your baby goslings to see the goal by using traffic cones. We implemented a new level in this stream, as well as adding some features if you complete a level. The geese are using a flocking algorithm called Boids.
+* youTubeId: HMcraHt86Gw
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/gOFKqdKbGWk.jpg
+* imageUrl: /static/advanced-stream/HMcraHt86Gw.jpg
+
+---
+
+* name: Haunted Home Ownership
+* description: Join Richard, Daryl, Shannon, Joey, and Vivian as they make a game about lawn maintenance and ghosts. This stream gives some examples of how to make signs and NPCs in tilemap games, as well as custom dialogs!
+* youTubeId: uIhsNahi8Q8
+* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
+* imageUrl: /static/advanced-stream/uIhsNahi8Q8.jpg
 
 ---
 
@@ -862,11 +862,19 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: There's a Wolf in my Boot!
-* description: Join Richard and Shannon as they play a game of mad-libs with sprites and coding! Tune in to find out what kind of game they make with "spooky", "autumn" and "ice laser" as the starting prompts.
-* youTubeId: py5d8xaOqPU
+* name: Island Recipes Part 2
+* description: Join Richard, Daryl, Shannon, Joey, and Vivian as we continue our deserted island dessert game! In this episode, we add the ability to complete the recipe and move on to the next one, and then add more ingredients and recipes!
+* youTubeId: rc9DM0S2rGw
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/py5d8xaOqPU.jpg
+* imageUrl: /static/advanced-stream/rc9DM0S2rGw.jpg
+
+---
+
+* name: Ice Cream Tower
+* description: Join Richard, Joey, Vivian and Shannon as they make a game about stacking ice cream scoops. Also watch as a controversy threatens to tear the MakeCode team apart.
+* youTubeId: gOFKqdKbGWk
+* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
+* imageUrl: /static/advanced-stream/gOFKqdKbGWk.jpg
 
 ---
 
@@ -875,14 +883,6 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 * youTubeId: JYHWmjqPeGs
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
 * imageUrl: /static/advanced-stream/JYHWmjqPeGs.jpg
-
----
-
-* name: Island Recipes Part 2
-* description: Join Richard, Daryl, Shannon, Joey, and Vivian as we continue our deserted island dessert game! In this episode, we add the ability to complete the recipe and move on to the next one, and then add more ingredients and recipes!
-* youTubeId: rc9DM0S2rGw
-* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/rc9DM0S2rGw.jpg
 
 ---
 
@@ -899,6 +899,14 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 * youTubeId: xZi24CZiGyw
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
 * imageUrl: /static/advanced-stream/xZi24CZiGyw.jpg
+
+---
+
+* name: Procedural Platformer Pt. 2
+* description: Join Richard, Vivian, and Shannon as they continue working on a procedurally generated platformer! This one is all about the story. You know, drama! Part three is coming tomorrow.
+* youTubeId: WDd7GNJdwGg
+* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
+* imageUrl: /static/advanced-stream/WDd7GNJdwGg.jpg
 
 ---
 
@@ -982,14 +990,6 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: Procedural Platformer Pt. 2
-* description: Join Richard, Vivian, and Shannon as they continue working on a procedurally generated platformer! This one is all about the story. You know, drama! Part three is coming tomorrow.
-* youTubeId: WDd7GNJdwGg
-* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/WDd7GNJdwGg.jpg
-
----
-
 * name: MakeCode Arcade Live: Dolphin Stunts
 * description: Join Richard, Vivian, Joey, and Shannon as they create Tony Albatross: Pro Dolphin. We didn't quite finish this one today, so tune in tomorrow for the exciting conclusion!
 * youTubeId: 8MsHR0RPzuc
@@ -1003,6 +1003,14 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 * youTubeId: RSDBnChJCnw
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
 * imageUrl: /static/advanced-stream/RSDBnChJCnw.jpg
+
+---
+
+* name: Help Desk!
+* description: Join Richard, Daryl, Joey, and Vivian for our new segment, Help Desk! We asked on our forums for your questions, and we answered them live on stream. There were some audio issues, but they are fixed by 3:24!
+* youTubeId: pXYVxR2xcQo
+* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
+* imageUrl: /static/advanced-stream/pXYVxR2xcQo.jpg
 
 ---
 
@@ -1030,6 +1038,14 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
+* name: MakeCode Arcade Live!
+* description: Join Richard, Shannon, Joey, and Vivian as we start making a board game! The game so far: you roll a die, you move around the board, and then maybe a special event happens, and then it's the next turn.
+* youTubeId: bn5dR7Hsqew
+* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
+* imageUrl: /static/advanced-stream/bn5dR7Hsqew.jpg
+
+---
+
 * name: Incremental Game (part 2)
 * description: Join Richard, Shannon, Joey, and Vivian as they finish up the hat-themed incremental game from yesterday!
 * youTubeId: fAC5veCvaOk
@@ -1046,19 +1062,19 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: Help Desk!
-* description: Join Richard, Daryl, Joey, and Vivian for our new segment, Help Desk! We asked on our forums for your questions, and we answered them live on stream. There were some audio issues, but they are fixed by 3:24!
-* youTubeId: pXYVxR2xcQo
-* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/pXYVxR2xcQo.jpg
-
----
-
 * name: Cuttly if you can
 * description: Join Vivian, Shannon, Joey, and Daryl as build a game with WAVES! Survive wave after wave of sharks as a cuttlefish. Waves are a great game progression mechanic that can be used in many different game styles.
 * youTubeId: 6nFs_JoNXE0
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
 * imageUrl: /static/advanced-stream/6nFs_JoNXE0.jpg
+
+---
+
+* name: Collaborative Pangolin Game Pt. 4
+* description: Join Richard, Vivian, and Joey as we finish up the battle minigame in our collaborative pangolin game! We got some more great art today to put into the game and we'll be opening another post in the forum to get some more from you folks!
+* youTubeId: tSb-mYkNIzo
+* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
+* imageUrl: /static/advanced-stream/tSb-mYkNIzo.jpg
 
 ---
 
@@ -1086,6 +1102,14 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
+* name: How not to TRAIN your rabbit
+* description: Join Richard, Daryl, Shannon, and Vivian as we build in a game in which Jiji the cat faces of against a tenacious rabbit in a duel over who can get the longest vegetable train.
+* youTubeId: _IH7bGyP8is
+* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
+* imageUrl: /static/advanced-stream/_IH7bGyP8is.jpg
+
+---
+
 * name: Stable Table
 * description: Join Richard, Shannon, and Vivian as they make a very accurate carpentry simulator. That's a table!!!
 * youTubeId: bhjl71Aa8rk
@@ -1094,11 +1118,11 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: How not to TRAIN your rabbit
-* description: Join Richard, Daryl, Shannon, and Vivian as we build in a game in which Jiji the cat faces of against a tenacious rabbit in a duel over who can get the longest vegetable train.
-* youTubeId: _IH7bGyP8is
+* name: Interrogating Apples
+* description: Join Richard, Shannon, and Joey as they make a game about investigating an apple graveyard. We show off how to do some conversations and a cursor for hovering and selecting things. We didn't quite finish it this time around.
+* youTubeId: 8uiwjNw2kJs
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/_IH7bGyP8is.jpg
+* imageUrl: /static/advanced-stream/8uiwjNw2kJs.jpg
 
 ---
 
@@ -1118,11 +1142,11 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: Interrogating Apples
-* description: Join Richard, Shannon, and Joey as they make a game about investigating an apple graveyard. We show off how to do some conversations and a cursor for hovering and selecting things. We didn't quite finish it this time around.
-* youTubeId: 8uiwjNw2kJs
+* name: Sucromon [Part 3]
+* description: Join Daryl, Shannon, Joey, and Vivian as we continue making our Sucromon game! In this session we continue making the SWITCH selection, where you can see all the Sucromon you have in your team and what HP they have.
+* youTubeId: dl8zLkyAXlg
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/8uiwjNw2kJs.jpg
+* imageUrl: /static/advanced-stream/dl8zLkyAXlg.jpg
 
 ---
 
@@ -1134,11 +1158,11 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: Sucromon [Part 3]
-* description: Join Daryl, Shannon, Joey, and Vivian as we continue making our Sucromon game! In this session we continue making the SWITCH selection, where you can see all the Sucromon you have in your team and what HP they have.
-* youTubeId: dl8zLkyAXlg
+* name: Producing a Play!
+* description: Join Richard, Shannon, Joey, and Vivian as we finish putting together our production of Hamlet! We write out the play within a play scene, and add small features like audience reactions, curtain rising/falling, and having the actors face the right direction when they're moving and talking. We also do a table read!
+* youTubeId: eni6v871XrI
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/dl8zLkyAXlg.jpg
+* imageUrl: /static/advanced-stream/eni6v871XrI.jpg
 
 ---
 
@@ -1147,14 +1171,6 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 * youTubeId: hPOHuxrfRe4
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
 * imageUrl: /static/advanced-stream/hPOHuxrfRe4.jpg
-
----
-
-* name: Producing a Play!
-* description: Join Richard, Shannon, Joey, and Vivian as we finish putting together our production of Hamlet! We write out the play within a play scene, and add small features like audience reactions, curtain rising/falling, and having the actors face the right direction when they're moving and talking. We also do a table read!
-* youTubeId: eni6v871XrI
-* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/eni6v871XrI.jpg
 
 ---
 
@@ -1182,14 +1198,6 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: Carnival Game!
-* description: Join Shannon and Vivian as they make a carnival game! Use the arrow keys to aim, and hold down "A" to throw a dart at the balloons!
-* youTubeId: QtJ6Y29-njQ
-* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/QtJ6Y29-njQ.jpg
-
----
-
 * name: Gacha Race
 * description: Join Shannon, Daryl, Joey, Richard, and Vivian as we make a DIFFERENT gachapon game, with an attached minigame! Get a random car from the gachapon machine and head over to the start flag to compete in a race and earn more coins.
 * youTubeId: FEPUQRypIlQ
@@ -1203,6 +1211,22 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 * youTubeId: xkVOpFCkkf4
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
 * imageUrl: /static/advanced-stream/xkVOpFCkkf4.jpg
+
+---
+
+* name: Procedural Platformer Pt. 3
+* description: Join Richard, Vivian, and Joey as they finish up their procedurally generated platformer! We got so many platforms in this one. Well, three kinds.... but that's more than one!
+* youTubeId: iaRxeWHOoa0
+* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
+* imageUrl: /static/advanced-stream/iaRxeWHOoa0.jpg
+
+---
+
+* name: Carnival Game!
+* description: Join Shannon and Vivian as they make a carnival game! Use the arrow keys to aim, and hold down "A" to throw a dart at the balloons!
+* youTubeId: QtJ6Y29-njQ
+* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
+* imageUrl: /static/advanced-stream/QtJ6Y29-njQ.jpg
 
 ---
 
@@ -1222,11 +1246,11 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: Procedural Platformer Pt. 3
-* description: Join Richard, Vivian, and Joey as they finish up their procedurally generated platformer! We got so many platforms in this one. Well, three kinds.... but that's more than one!
-* youTubeId: iaRxeWHOoa0
+* name: A Centennial Celebration Stream
+* description: Join Richard, Shannon, Joey, and Vivian as we reminisce and play some of our favorite games that we've made since starting the MakeCode Arcade Advanced livestream. This video marks our 100th stream! Thank you so much for tuning in.
+* youTubeId: jxhT9iJKhWQ
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/iaRxeWHOoa0.jpg
+* imageUrl: /static/advanced-stream/jxhT9iJKhWQ.jpg
 
 ---
 
@@ -1235,14 +1259,6 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 * youTubeId: eJbF9SjX1IA
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
 * imageUrl: /static/advanced-stream/eJbF9SjX1IA.jpg
-
----
-
-* name: A Centennial Celebration Stream
-* description: Join Richard, Shannon, Joey, and Vivian as we reminisce and play some of our favorite games that we've made since starting the MakeCode Arcade Advanced livestream. This video marks our 100th stream! Thank you so much for tuning in.
-* youTubeId: jxhT9iJKhWQ
-* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/jxhT9iJKhWQ.jpg
 
 ---
 
@@ -1270,11 +1286,11 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
-* name: Collaborative Pangolin Game Pt. 4
-* description: Join Richard, Vivian, and Joey as we finish up the battle minigame in our collaborative pangolin game! We got some more great art today to put into the game and we'll be opening another post in the forum to get some more from you folks!
-* youTubeId: tSb-mYkNIzo
+* name: Sucromon (Part 5)
+* description: Join Richard, Shannon, Joey, and Vivian as we continue making our Sucromon game! In this session we add the overworld!
+* youTubeId: x3YoPiOpn8k
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/tSb-mYkNIzo.jpg
+* imageUrl: /static/advanced-stream/x3YoPiOpn8k.jpg
 
 ---
 
@@ -1283,14 +1299,6 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 * youTubeId: qX7_FA8a7OU
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
 * imageUrl: /static/advanced-stream/qX7_FA8a7OU.jpg
-
----
-
-* name: Sucromon (Part 5)
-* description: Join Richard, Shannon, Joey, and Vivian as we continue making our Sucromon game! In this session we add the overworld!
-* youTubeId: x3YoPiOpn8k
-* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
-* imageUrl: /static/advanced-stream/x3YoPiOpn8k.jpg
 
 ---
 
@@ -1318,6 +1326,14 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 
 ---
 
+* name: MakeCode Arcade Advanced Livestream
+* description: Join Shannon, Joey, and Vivian as we keep on making our board game. In this stream, we added a teleportation system to the center of the board and made a mini game to survive
+* youTubeId: tVZZKukPJiI
+* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
+* imageUrl: /static/advanced-stream/tVZZKukPJiI.jpg
+
+---
+
 * name: That strawberry is for the feast! Caw?
 * description: Join Richard, Daryl, Shannon, Joey, Vivian, and new guest ERIC as we build a game-idea-generator game where you're a squirrel valiantly defending a strawberry from confused crows.
 * youTubeId: 8Vu83_KpCmc
@@ -1331,6 +1347,30 @@ Join the MakeCode developers as we stream MakeCode Arcade live on mixer.com/make
 * youTubeId: ypsWaS1dX18
 * youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
 * imageUrl: /static/advanced-stream/ypsWaS1dX18.jpg
+
+---
+
+* name: MakeCode Arcade Advanced
+* description: Join Shannon, Joey, and Vivian as we take the game mechanic of "dashing" and polish it up for a platformer game!
+* youTubeId: vTWD3m6xQUI
+* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
+* imageUrl: /static/advanced-stream/vTWD3m6xQUI.jpg
+
+---
+
+* name: MakeCode Arcade Advanced Livestream
+* description: Join Richard, Shannon, Joey, and Vivian as we start day three of making our haunted forest themed board game! In this stream we implemented getting the special items, fixed an elusive bug, and presenting the special items to the tree for final judgement. Also we found out what's inside the egg!
+* youTubeId: 2KTzXy4sGmc
+* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
+* imageUrl: /static/advanced-stream/2KTzXy4sGmc.jpg
+
+---
+
+* name: MakeCode Arcade Advanced Livestream
+* description: Join Richard, Joey, and Vivian as we finish up the board game! In this stream we implement a PvP balloon pumping mini game and talk about our favorite previous streams :D
+* youTubeId: pdnTVr-e6to
+* youTubePlaylistId: PLMMBk9hE-SeoHWvTpdezyL9JfF0tocJUT
+* imageUrl: /static/advanced-stream/pdnTVr-e6to.jpg
 
 ---
 
